@@ -1,7 +1,7 @@
 paginate: 5
 permalink: posts/:slug
 rdiscount extensions: [smart]
-title: zdying
+title: LIRUYI
 discuss: true
 
 gems:
